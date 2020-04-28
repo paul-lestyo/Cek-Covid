@@ -13,3 +13,4 @@ Simple Website to display data covid-19
     ```
     composer require paul-lestyo/Cek-Covid
     ```
+## [Demo](https://paul-lestyo.github.io/)
